@@ -1,0 +1,39 @@
+body {
+    margin: 0 auto 0 auto;
+    max-width: 800px;
+    min-height: 100vh;
+    color: black;
+    border: 5px solid black;
+}
+
+header {
+    padding: 20px 0 20px 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    border-bottom: 5px solid black;
+}
+
+.feedback {
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 40px 0 40px;
+}
+
+#qr-scanner {
+    padding: 10px;
+    margin: 10px 40px 0 40px;
+}
+
+.result {
+    font-size: large;
+    font-weight: bold;
+    padding: 20px 40px 20px 40px;
+}
+
+.field {
+    margin-top: 10px;
+    padding: 20px 10px 20px 10px;
+    border: 3px solid black;
+}
