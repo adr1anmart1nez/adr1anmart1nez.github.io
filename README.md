@@ -1,4 +1,4 @@
-# Concircle Scanner App
+# Scanner App
 
 Website: https://adrianmart1nez.github.io
 
